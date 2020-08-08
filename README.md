@@ -13,5 +13,4 @@
 <h2>Contact</h2>
 
 * Twitter: <a href="https://twitter.com/vb6">@vb6</a>
-* Discord: <a href="https://discord.com/users/428277811732545546">󠇰󠇰#9072</a>
 * Website: <a href="https://noto.cf">󠇰󠇰noto.cf</a>
