@@ -5,8 +5,7 @@
 
 * Twitter: <a href="https://twitter.com/vb6" target="_blank">@vb6</a>
 * Discord: <a href="https://discord.com/users/428277811732545546" target="_blank">󠇰󠇰#9072</a>
-* Soundcloud: <a href="https://soundcloud.com/chmod" target="_blank">󠇰󠇰chmod</a>
-* Steam: <a href="https://steamcommunity.com/id/vb6" target="_blank">󠇰󠇰vb6</a>
+* Website: <a href="https://noto.cf" target="_blank">󠇰󠇰noto.cf</a>
 
 <h2>Languages</h2>
 
