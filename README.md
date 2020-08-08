@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**noto-rious/noto-rious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img align="center" width="256px" src="https://avatars0.githubusercontent.com/u/69278774?s=460&u=8276635d63c98298c255867d4bfd49072c3a7a41&v=4"/></p>
 
-Here are some ideas to get you started:
+<h2>Notorious</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Twitter: <a href="https://twitter.com/vb6" target="_blank">@vb6</a>
+* Discord: <a href="https://discord.com/users/428277811732545546" target="_blank">󠇰󠇰#9072</a>
+* Soundcloud: <a href="https://soundcloud.com/chmod" target="_blank">󠇰󠇰chmod</a>
+* Steam: <a href="https://steamcommunity.com/id/vb6" target="_blank">󠇰󠇰vb6</a>
+
+<h2>Languages</h2>
+
+* Python
+* VB6
