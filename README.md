@@ -3,7 +3,7 @@
 
 <h2>Notorious</h2>
 
-> Howdy, most people call me "Noto". However, you can call me what you want just don't call me late for dinner. I mostly dabble in automation software development, so thats mostly what you can expect to find here. I'm still in the process of learning new things but I have been coding since the 90's. :sunglasses: #hungerneverdies
+> Howdy, most people call me "Noto". I mostly dabble in automation software development, so thats mostly what you can expect to find here. I'm still in the process of learning new things but I have been coding since the 90's. :sunglasses: #hungerneverdies
 
 <h2>Languages</h2>
 
