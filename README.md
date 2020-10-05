@@ -32,11 +32,11 @@ func main() {
 <details>
   <summary>Contact</summary>
   <p>
-    ⯈ 💬 Discord: <a href="https://discordapp.com/users/749631553172406362">notorious#1337</a>
+    • 💬 Discord: <a href="https://discordapp.com/users/749631553172406362">notorious#1337</a>
     <br>
-    ⯈ 🐦 Twitter: <a href="https://twitter.com/vb6">@vb6</a>
+    • 🐦 Twitter: <a href="https://twitter.com/vb6">@vb6</a>
     <br>
-    ⯈ 🔊 Soundcloud: <a href="https://soundcloud.com/chmod">chmod</a>
+    • 🔊 Soundcloud: <a href="https://soundcloud.com/chmod">chmod</a>
   </p>
 </details>
 
