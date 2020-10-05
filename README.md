@@ -6,12 +6,27 @@
 ```go
 package main
 
+func init() {
+        println(`	
+ ███▄    █  ▒█████  ▄▄▄█████▓ ▒█████   ██▀███   ██▓ ▒█████   █    ██   ██████ 
+ ██ ▀█   █ ▒██▒  ██▒▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒▓██▒▒██▒  ██▒ ██  ▓██▒▒██    ▒ 
+▓██  ▀█ ██▒▒██░  ██▒▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒▒██▒▒██░  ██▒▓██  ▒██░░ ▓██▄   
+▓██▒  ▐▌██▒▒██   ██░░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  ░██░▒██   ██░▓▓█  ░██░  ▒   ██▒
+▒██░   ▓██░░ ████▓▒░  ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒░██░░ ████▓▒░▒▒█████▓ ▒██████▒▒
+░ ▒░   ▒ ▒ ░ ▒░▒░▒░   ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░▓  ░ ▒░▒░▒░ ░▒▓▒ ▒ ▒ ▒ ▒▓▒ ▒ ░
+░ ░░   ░ ▒░  ░ ▒ ▒░     ░      ░ ▒ ▒░   ░▒ ░ ▒░ ▒ ░  ░ ▒ ▒░ ░░▒░ ░ ░ ░ ░▒  ░ ░
+   ░   ░ ░ ░ ░ ░ ▒    ░      ░ ░ ░ ▒    ░░   ░  ▒ ░░ ░ ░ ▒   ░░░ ░ ░ ░  ░  ░  
+         ░     ░ ░               ░ ░     ░      ░      ░ ░     ░           ░  
+                                                                              
+                                             ░                                                      
+`)
+}
 func main() {
-    println("Hello, and welcome to my GitHub!")
-    println("I go by Notorious but most people just call me Noto.")
-    println("I mostly develop automation software.")
-    println("I'm currently in the process of learning Go.")
-    println("Feel free to contact me if you need anything.")
+        println("Hello, and welcome to my GitHub!")
+        println("I go by Notorious but most people just call me Noto.")
+        println("I mostly develop automation software.")
+        println("I'm currently in the process of learning Go.")
+        println("Feel free to contact me if you need anything.")
 }
 ```
 <details>
