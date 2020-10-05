@@ -42,8 +42,13 @@ func main() {
 
 <hr>
 
-<h2>Languages</h2>
-
-* Python
-* Go
-* VB6
+<details>
+  <summary>Languages</summary>
+  <p>
+    • Python
+    <br>
+    • Go
+    <br>
+    • VB6
+  </p>
+</details>
