@@ -8,6 +8,7 @@
 <h2>Languages</h2>
 
 * Python
+* Go
 * VB6
 
 <h2>Contact</h2>
