@@ -47,10 +47,10 @@ func main() {
 <details>
   <summary><b>Languages</b></summary>
   <p>
-    ⯈ Python
+    • Python
     <br>
-    ⯈ Go
+    • Go
     <br>
-    ⯈ VB6
+    • VB6
   </p>
 </details>
