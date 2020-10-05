@@ -1,7 +1,9 @@
 
-<p align="center"><img align="center" width="256px" src="https://avatars0.githubusercontent.com/u/69278774?s=460&u=8276635d63c98298c255867d4bfd49072c3a7a41&v=4"/></p>
+<p align="center">
+        <img align="center" width="256px" src="https://avatars0.githubusercontent.com/u/69278774?s=460&u=8276635d63c98298c255867d4bfd49072c3a7a41&v=4"/>
+</p>
 
-<h2>go run Notorious.go</h2>
+> #### go run Notorious.go
 
 ```go
 package main
@@ -30,7 +32,7 @@ func main() {
 }
 ```
 <details>
-  <summary>Contact</summary>
+  <summary><b>Contact</b></summary>
   <p>
     • 💬 Discord: <a href="https://discordapp.com/users/749631553172406362">notorious#1337</a>
     <br>
@@ -43,7 +45,7 @@ func main() {
 <hr>
 
 <details>
-  <summary>Languages</summary>
+  <summary><b>Languages</b></summary>
   <p>
     ⯈ Python
     <br>
