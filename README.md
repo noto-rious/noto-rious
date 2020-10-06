@@ -46,3 +46,5 @@ func main() {
     • VB6
   </p>
 </details>
+
+![](https://komarev.com/ghpvc/?username=noto-rious&color=green)
