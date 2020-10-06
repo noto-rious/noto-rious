@@ -32,6 +32,8 @@ func main() {
     • 🐦 Twitter: <a href="https://twitter.com/vb6">@vb6</a>
     <br>
     • 🔊 Soundcloud: <a href="https://soundcloud.com/chmod">chmod</a>
+    <br>
+    • 🔑 Keybase: <a href="https://keybase.io/noto">noto</a>
   </p>
 </details>
 <details>
