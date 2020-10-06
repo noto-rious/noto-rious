@@ -41,9 +41,6 @@ func main() {
     • 🔊 Soundcloud: <a href="https://soundcloud.com/chmod">chmod</a>
   </p>
 </details>
-
-<hr>
-
 <details>
   <summary><b>Languages</b></summary>
   <p>
