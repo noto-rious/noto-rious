@@ -3,7 +3,7 @@
         <img align="center" width="256px" src="https://avatars0.githubusercontent.com/u/69278774?s=460&u=8276635d63c98298c255867d4bfd49072c3a7a41&v=4"/>
 </p>
 
-> #### `go run Notorious.go`
+#### `go run Notorious.go`
 
 ```go
 package main
