@@ -46,5 +46,10 @@ func main() {
     • VB6
   </p>
 </details>
+<details>
+  <summary><b>Profile Views</b></summary>
+  <p>
+   <img src="https://komarev.com/ghpvc/?username=noto-rious&color=green">
+  </p>
+</details>
 
-![](https://komarev.com/ghpvc/?username=noto-rious&color=lightgrey)
