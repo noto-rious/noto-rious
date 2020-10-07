@@ -47,4 +47,4 @@ func main() {
   </p>
 </details>
 
-![](https://komarev.com/ghpvc/?username=noto-rious&color=green)
+![](https://komarev.com/ghpvc/?username=noto-rious&color=lightgrey)
