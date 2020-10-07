@@ -17,7 +17,7 @@ func init() {
 `)
 }
 func main() {
-        println("Hello, welcome to my GitHub!")
+        println("Hello. Welcome to my GitHub!")
         println("I go by Notorious but most people just call me Noto.")
         println("I mostly develop automation software.")
         println("I'm currently in the process of learning Go.")
