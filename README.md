@@ -49,7 +49,7 @@ func main() {
 <details>
   <summary><b>Profile Views</b></summary>
   <p>
-   <img src="https://komarev.com/ghpvc/?username=noto-rious&color=green">
+   <img src="https://komarev.com/ghpvc/?username=noto-rious&color=lightgrey">
   </p>
 </details>
 
