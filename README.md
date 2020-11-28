@@ -43,7 +43,7 @@ func main() {
       <li>Python</li>
       <li>Go</li>
       <li>VB6</li>
-      <li>JavaScript</li>
+      <li>JavaScript (Learning)</li>
     </ul>  
   </p>
 </details>
