@@ -33,7 +33,8 @@ func main() {
       <li>🎵 Soundcloud: <a href="https://soundcloud.com/chmod">chmod</a></li>
       <li>🔑 Keybase: <a href="https://keybase.io/noto">noto</a></li>
       <li>✉️ Telegram: <a href="https://t.me/knowtorious">knowtorious</a></li>
-      <li>☕ Buy me a Coffee: <a href="https://www.buymeacoffee.com/noto">noto</a></li>
+      <li>☕ Buy me a Coffee (BMAC): <a href="https://www.buymeacoffee.com/noto">noto</a></li>
+      <li>☕ Buy me a Coffee (KOFI): <a href="https://www.ko-fi.com/notorious">notorious</a></li>
     </ul>  
   </p>
 </details>
